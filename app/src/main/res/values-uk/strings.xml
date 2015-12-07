@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <string-array name="tr_list">
+        <item>ТРІАТЛОН</item>
+        <item>Плавання</item>
+        <item>Біг</item>
+        <item>Вело</item>
+    </string-array>
+
+
+    <string name="app_name">Тріатлон</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="swimming">Плавання</string>
+    <string name="cycling">Вело</string>
+    <string name="running">Біг</string>
+    <string name="sw_exercises">Плавальні вправи</string>
+    <string name="run_exercises">Бігові вправи</string>
+    <string name="freestyle">Вільний стиль</string>
+    <string name="butterfly">Батерфляй</string>
+    <string name="breaststroke">Брас</string>
+    <string name="backstroke">На спині</string>
+    <string name="total_report">Загальний звіт</string>
+    <string name="duration">Час:</string>
+    <string name="distance">Дистанція:</string>
+    <string name="meters">м</string>
+    <string name="kmeters">км</string>
+    <string name="seconds">сек</string>
+    <string name="ok">ОК</string>
+    <string name="zero">0</string>
+    <string name="zero_point_zero">0.0</string>
+    <string name="add_results">Додати результати</string>
+    <string name="history">Історія</string>
+    <string name="save">Зберегти</string>
+    <string name="saved">Збережено</string>
+    <string name="delete">Стерти</string>
+    <string name="edit">Редагувати</string>
+    <string name="selected_items"> пункт(ів) вибрано</string>
+    <string name="deleted_items"> пункт(ів) стерто</string>
+    <string name="edited">Відредаговано</string>
+    <string name="today">Сьогодні</string>
+    <string name="week">За останній тиждень</string>
+    <string name="month">За останній місяць</string>
+    <string name="all">Всі записи</string>
+    <string name="choose">Вибрати</string>
+    <string name="from">З:</string>
+    <string name="to">До:</string>
+    <string name="to_triathlon">Повернутися до Тріатлону</string>
+    <string name="too_much_to_edit">Ви можете редагувати одночасно тільки один запис.
+        Будь ласка, виберіть один запис.</string>
+    <string name="summarised">Більше</string>
+    <string name="tot_duration">Загальнй час:</string>
+    <string name="tot_distance">Загальна відстань:</string>
+    <string name="am_of_trainings">Кількість тренувань:</string>
+    <string name="av_speed">Середня швидкість:</string>
+    <string name="nothing">""</string>
+    <string name="dist_and_dur">Відстань і Час</string>
+    <string name="trainings">Тренування</string>
+    <string name="results">Результати</string>
+    <string name="distance_gr">Відстань</string>
+    <string name="duration_gr">Час</string>
+    <string name="bicycle">Велосипед</string>
+    <string name="trainer">Велостанок</string>
+    <string name="triathlon">Тріатлон</string>
+    <string name="m_s">м/с</string>
+    <string name="wrong_type">Будь ласка, виберіть конкретний вид.</string>
+    <string name="summarized_tab">Підсумовані результати</string>
+    <string name="list_tab">Результати</string>
+    <string name="wrong_data">Будь ласка, введіть правильні дані.</string>
+    <string name="wrong_date">Будь ласка, введіть правильну дату.</string>
+    <string name="type">Тип</string>
+    <string name="app_label">ТріатлонТренування</string>
+    <string name="save_im">Зберегти графік</string>
+    <string name="saved_im">Графік збережено.</string>
+    <string name="wrong_card">Виникла проблема із CD-картою. Графік не збережено.</string>
+    <string name="date">Дата:</string>
+    <string name="min">хв</string>
+    <string name="hours">год</string>
+    <string name="button_start">Розпочати тренування</string>
+    <string name="button_finish">Завершити тренування</string>
+
+</resources>

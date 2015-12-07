@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/sw_exercises"
+        android:title="@string/sw_exercises"/>
+    <item android:id="@+id/freestyle"
+        android:title="@string/freestyle"/>
+    <item android:id="@+id/butterfly"
+        android:title="@string/butterfly"/>
+    <item android:id="@+id/breaststroke"
+        android:title="@string/breaststroke"/>
+    <item android:id="@+id/backstroke"
+        android:title="@string/backstroke"/>
+
+</menu>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.natalya.trapplication" >
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher1"
+        android:label="@string/app_label"
+        android:theme="@style/AppTheme"
+        android:name=".TriathlonApplication">
+
+        android:windowSoftInputMode="adjustResize"
+        <activity
+            android:name=".Activity.SummarisedActivity"/>
+        <activity
+            android:name=".Activity.ListActivity"/>
+
+        <activity
+            android:name=".Activity.HistoryActivity"
+         >
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity.ChoosingActivity"> </activity>
+        <activity android:name=".Activity.EnterActivity"></activity>
+
+
+
+    </application>
+
+</manifest>

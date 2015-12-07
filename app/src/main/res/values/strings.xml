@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <string-array name="tr_list">
+        <item>TRIATHLON</item>
+        <item>Swimming</item>
+        <item>Running</item>
+        <item>Cycling</item>
+    </string-array>
+
+
+    <string name="app_name">Triathlon</string>
+    <string name="action_settings">Settings</string>
+    <string name="duration">Time:</string>
+    <string name="distance">Distance:</string>
+    <string name="meters">m</string>
+    <string name="kmeters">km</string>
+    <string name="seconds">sec</string>
+    <string name="ok">OK</string>
+    <string name="cycling">Cycling</string>
+    <string name="running">Running</string>
+    <string name="run_exercises">Running Exercises</string>
+    <string name="sw_exercises">Swimming Exercises</string>
+    <string name="total_report">Total report</string>
+    <string name="add_results">Add results</string>
+    <string name="history">History</string>
+    <string name="save">Save</string>
+    <string name="zero">0</string>
+    <string name="zero_point_zero">0.0</string>
+    <string name="saved">Saved</string>
+    <string name="freestyle">Freestyle</string>
+    <string name="butterfly">Butterfly</string>
+    <string name="breaststroke">Breaststroke</string>
+    <string name="backstroke">Backstroke</string>
+    <string name="swimming">Swimming</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="selected_items"> selected item(s)</string>
+    <string name="deleted_items">deleted item(s)</string>
+    <string name="edited">Edited</string>
+    <string name="today">Today</string>
+    <string name="week">Last week</string>
+    <string name="month">Last month</string>
+    <string name="all">All</string>
+    <string name="choose">Choose</string>
+    <string name="from">From:</string>
+    <string name="to">To:</string>
+    <string name="to_triathlon">Return to Triathlon</string>
+    <string name="too_much_to_edit">You can edit only one item at once.
+        Please, choose one item.</string>
+    <string name="summarised">More</string>
+    <string name="tot_duration">Total time:</string>
+    <string name="tot_distance">Total distance:</string>
+    <string name="am_of_trainings">Amount of trainings:</string>
+    <string name="av_speed">Average speed:</string>
+    <string name="nothing">""</string>
+    <string name="dist_and_dur">Distance and Time</string>
+    <string name="trainings">Trainings</string>
+    <string name="results">Results</string>
+    <string name="distance_gr">Distance</string>
+    <string name="duration_gr">Time</string>
+    <string name="bicycle">Bicycle</string>
+    <string name="trainer">Virtual Training</string>
+    <string name="triathlon">Triathlon</string>
+    <string name="m_s">m/s</string>
+    <string name="wrong_type">Please, choose specific type.</string>
+    <string name="summarized_tab">Summarized results</string>
+    <string name="list_tab">Records</string>
+    <string name="wrong_data">Please, enter correct data.</string>
+    <string name="wrong_date">Please, enter correct date.</string>
+    <string name="type">Type</string>
+    <string name="save_im">Save image</string>
+    <string name="saved_im">Image saved.</string>
+    <string name="wrong_card">There is a problem with your external storage.
+    The image was not saved.</string>
+    <string name="app_label">TriathlonTraining</string>
+    <string name="date">Date:</string>
+    <string name="min">min</string>
+    <string name="hours">h</string>
+    <string name="button_start">Start training</string>
+    <string name="button_finish">Finish training</string>
+
+
+</resources>

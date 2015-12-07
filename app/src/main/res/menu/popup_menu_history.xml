@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/today"
+        android:title="@string/today"
+        android:showAsAction="collapseActionView"/>
+
+    <item android:id="@+id/week"
+        android:title="@string/week"
+        android:showAsAction="collapseActionView"/>
+
+    <item android:id="@+id/month"
+        android:title="@string/month"
+        android:showAsAction="collapseActionView"/>
+
+    <item android:id="@+id/all"
+        android:title="@string/all"
+        android:showAsAction="never"/>
+
+    <item android:id="@+id/choose"
+        android:title="@string/choose"
+        android:showAsAction="never"/>
+
+</menu>

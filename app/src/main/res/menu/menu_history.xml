@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/exp_list"
+        android:title="@string/type"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_expand"
+        />
+
+    <item android:id="@+id/add_record"
+        android:title="@string/add_results"
+        android:icon="@drawable/ic_action_new"
+        android:showAsAction="always"
+        />
+
+
+    <item android:id="@+id/history"
+        android:icon="@drawable/ic_action_history"
+        android:title="@string/history"
+        android:showAsAction="always"/>
+
+
+</menu>
